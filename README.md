@@ -28,7 +28,6 @@ Developed By: Dineshkumar V
 Register Number:212220230013  
 
 
-
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -39,7 +38,6 @@ plt.imshow(img)
 plt.show()
 
 i)Image Translation
-
 
 shape=img.shape
 rows, cols, dim = shape
@@ -143,11 +141,11 @@ plt.show()
 ![e3](https://user-images.githubusercontent.com/75235789/165889311-10d83f42-c582-41e8-b3d3-436b60566774.jpg)
 
 
-### iii)Image shearing
+### <br/><br/><br/><br/><br/><br/><br/><br/><br/>iii)Image shearing
 
-![e4](https://user-images.githubusercontent.com/75235789/165889317-9c540ba6-b406-4339-849e-11a658bb0d1b.jpg)
+<br/>![e4](https://user-images.githubusercontent.com/75235789/165889317-9c540ba6-b406-4339-849e-11a658bb0d1b.jpg)
 
-### iv)Image Reflection
+### <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>iv)Image Reflection
 
 ![e5](https://user-images.githubusercontent.com/75235789/165889320-db2d9f0f-8aee-413f-bbe1-70815d12c960.jpg)
 
@@ -159,12 +157,12 @@ plt.show()
 
 
 
-### vi)Image Cropping
+### <br/><br/><br/><br/><br/><br/><br/><br/>vi)Image Cropping
 
 ![e7](https://user-images.githubusercontent.com/75235789/165889340-0c8abe2b-7d93-46e8-8370-ade488dbe3bb.jpg)
 
 
 
-## Result: 
+## <br/><br/><br/><br/><br/><br/><br/><br/>Result: 
 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
